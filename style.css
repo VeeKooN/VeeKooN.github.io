@@ -1,0 +1,11 @@
+.drag-rotate {
+  border-radius: 25px;
+  padding: 20px;
+  width: 500px;
+  height: 500px; 
+
+  transform: rotate(0);
+  transform-origin: center center;
+  user-select: none;
+  touch-action: none;
+}
